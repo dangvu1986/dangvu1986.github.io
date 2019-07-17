@@ -1,6 +1,6 @@
 {
-  "short_name": "Solid Filemanager",
-  "name": "Solid Filemanager",
+  "short_name": "SoLiDaM",
+  "name": "Solid application for Research data Management",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,5 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#fff",
-  "background_color": "#2196f3"
+  "background_color": "#779a2b"
 }
