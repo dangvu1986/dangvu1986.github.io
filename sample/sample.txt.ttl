@@ -1,0 +1,13 @@
+@prefix pav: <http://purl.org/pav/> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix sc: <http://schema.org/> .
+
+<#sample.txt.ttl>
+  dc:type "text";
+  dc:title "Sample of Research Data" ;
+  dc:description "this is a description of sample research data" ;
+  dc:creator <https://vsr.solid.informatik.tu-chemnitz.de/profile/card#me> ;
+  dc:date "2018-02-21" ;
+  dc:subject "Sample, IT";
+  sc:keyword "TUC", "VSR", "research data";
+  pav:version "1.0" .
