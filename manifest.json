@@ -1,6 +1,6 @@
 {
-  "short_name": "SoLiDaM",
-  "name": "Solid application for Research data Management",
+  "short_name": "SolidRDP",
+  "name": "Using SoLiD Containers for Research Data Publishing",
   "icons": [
     {
       "src": "favicon.ico",
